@@ -12,7 +12,10 @@ Here are some of the projects you can expect to find in this repository:
 
 - **[Rock Mile Prediction]()**:
     - In this project, I aim to predict the time it takes to run a mile over rocky terrain using various machine learning techniques. The prediction is based on features such as terrain type, elevation, weather conditions, runner's past performance, and more. The goal is to create a model that can assist athletes or outdoor enthusiasts in estimating their run time on challenging trails.
-    - **[DataSet-Link(https://drive.google.com/file/d/1_kjfa1qVrOc3EqA2FqB66GMXcGAH3IN8/view?usp=drive_link)]**:
+    - **[DataSet-Link](https://drive.google.com/file/d/1_kjfa1qVrOc3EqA2FqB66GMXcGAH3IN8/view?usp=drive_link)**
+- **[2.Diabetes Prediction]()**:
+    - The goal of this project is to develop a machine learning model that can accurately predict the likelihood of a person being diabetic based on a set of medical parameters.
+    - **[DataSet-Link](https://drive.google.com/file/d/1tUPL2AHegvZs_Kvu-0YHSMPUT4cu-G7C/view?usp=drive_link)**:
 
 ## Learning Goals
 
