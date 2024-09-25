@@ -18,7 +18,7 @@ Here are some of the projects you can expect to find in this repository:
     - **[DataSet-Link](https://drive.google.com/file/d/1tUPL2AHegvZs_Kvu-0YHSMPUT4cu-G7C/view?usp=drive_link)**:
 - **[3.span_ham_mail_Detection]()**:
     - The primary goal of this project is to build a machine learning model that accurately classifies emails as either spam or ham (non-spam).The model's performance is evaluated using metrics such as accuracy, ensuring its effectiveness in detecting unwanted spam emails.
-    - **[DataSet-Link](https://drive.google.com/file/d/1tUPL2AHegvZs_Kvu-0YHSMPUT4cu-G7C/view?usp=drive_link](https://drive.google.com/file/d/1DNd9pArBy88YPDRKj04M7IzuWEZMqqWN/view?usp=drive_link))**:
+    - **[DataSet-Link](https://drive.google.com/file/d/1DNd9pArBy88YPDRKj04M7IzuWEZMqqWN/view?usp=drive_link)**:
 
 ## Learning Goals
 
