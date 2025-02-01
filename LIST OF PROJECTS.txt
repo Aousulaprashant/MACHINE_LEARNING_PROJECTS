@@ -1,0 +1,8 @@
+1.heart diease prediction
+2.LOAN-STATUS-PREDICTION
+3.CROSS_VALIDATION_EXAMPLE(LOAN-STAUS-PREDICTION)
+4.HYPER-PARAMETER TUNING(GRID SEARCH CV AND RANDOM SEARCH CV)
+5.Model_selection_with-cross-validation-AND-HYPER-PARAMETER-TUNNING
+6. big mart data Prediction
+
+https://www.google.com/search?sca_esv=7574200c66593964&sxsrf=AHTn8zoFWafdVNYdWu8U24F8QCm909aeHg:1737908857770&q=brush+pen+lord+ram+sita+pencil+art+adipursh&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRaSIch6sxjNeCyOO8EPx91AMS4Gouj5WEwwuBHl9Gn1rTtjtcm5wrWMFdt7PEXdodsMI8zlW2OWhGqPTjUCkocHT5CylS_jvT1eY-LNyyoBnd7j-2pV5cJDWn863bBTrCEc8ogmVzTqYW3g1YDfWZxDU02vAX16MgciiiKfgwi2Yvt6Xn&udm=2&sa=X&ved=2ahUKEwi2gvqA55OLAxWXSWwGHQvxA-IQxKsJegQICBAB&ictx=0&biw=1280&bih=632&dpr=1.5#vhid=jUtFlBoM08oAGM&vssid=mosaic
